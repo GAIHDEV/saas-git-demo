@@ -42,7 +42,7 @@ function my_plugin_check_for_updates( $transient ) {
     }
 
     // Check if the GitHub API key is set.
-    define( 'YOUR_GITHUB_API_TOKEN', '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' );
+    define( 'YOUR_GITHUB_API_TOKEN', '' );
     define( 'MY_PLUGIN_API_ENDPOINT', 'https://github.com/GAIHDEV/saas-git-demo/releases/latest?access_token=' . YOUR_GITHUB_API_TOKEN );
 
     // Check for updates.
