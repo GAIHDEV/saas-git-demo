@@ -3,7 +3,7 @@
  * Plugin Name: SaaS [DEMO GIT]
  * Plugin URI: https://aibusinessschool.com/
  * Description: A simple SaaS [DEMO GIT] plugin.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Süleyman Ekici
  * Author URI: https://aibusinessschool.com/
  * License: GPL2
